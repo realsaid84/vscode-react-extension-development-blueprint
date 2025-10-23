@@ -93,13 +93,9 @@
 
 ---
 
-## 📊 Quick Stats
+## 📊 A Quick Combined Overview 
 
-- **Total Files**: 10 (3 meta + 7 documentation)
-- **Coverage**: All priority requirements complete
-- **Code Examples**: 100+ TypeScript/React snippets
-- **Best Practices**: 50+ DO/DON'T comparisons
-- **Patterns**: 30+ design patterns documented
+- [DAPA Coding Best Practices Guide](./DAPA-Coding-Best-Practices-Guide.md)
 
 ---
 
@@ -116,17 +112,3 @@ Looking for something specific? Use your browser's search (Ctrl+F / Cmd+F):
 - **Webview** → [06-vscode-extension-architecture.md](./docs/06-vscode-extension-architecture.md)
 
 ---
-
-## 💾 Download
-
-All files are in the `/mnt/user-data/outputs/dapa-guide/` directory.
-
-To download the complete guide:
-1. Use the file explorer in your IDE
-2. Navigate to the dapa-guide folder
-3. Download or copy the entire directory
-
----
-
-**Last Updated**: 2025  
-**Version**: 1.0 (Priority Requirements Complete)
