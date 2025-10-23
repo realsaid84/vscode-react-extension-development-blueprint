@@ -231,12 +231,6 @@ Please read our [Governance & Onboarding](./docs/16-governance-onboarding.md) gu
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 This guide incorporates best practices from:
@@ -250,6 +244,4 @@ This guide incorporates best practices from:
 
 **Version**: 2025.1  
 **Last Updated**: 2025  
-**Maintained by**: DAPA Engineering Team
 
-For questions or suggestions, please [open an issue](https://github.com/your-org/dapa/issues) or reach out to the team.
