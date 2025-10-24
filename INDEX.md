@@ -60,12 +60,11 @@
 - Caching strategies
 
 #### 7️⃣ AI-Readiness & GitHub Copilot
-[**docs/14-ai-copilot-integration.md**](./docs/14-ai-copilot-integration.md)
+[**docs/14-ai-copilot-integration.md**](./docs/14-ai-integration.md)
 - Code structure for AI assistance
 - Copilot-friendly patterns
-- Context optimization
-- Comment-driven development
-- Prompt engineering techniques
+- Chat Participant Integration for Intelligent Assistance
+- Language Model API Integration Best Practices 
 
 ---
 
@@ -88,7 +87,7 @@
 3. Then: [Error Handling](./docs/09-error-handling.md)
 
 ### Optimizing for AI Tools
-1. Start: [AI-Readiness](./docs/14-ai-copilot-integration.md)
+1. Start: [AI-Readiness](./docs/14-ai-integration.md)
 2. Apply across all other docs
 
 ---
