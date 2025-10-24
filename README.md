@@ -1,6 +1,6 @@
 # DAPA VSCode Extension - Comprehensive Developer Guide
 
-> **A complete guide for building a production-ready, enterprise-grade VSCode extension with React, TypeScript, and No-Code API authoring capabilities**
+> **A complete guide for building a production-ready, enterprise-grade VSCode extension with React, TypeScript, for No-Code API authoring capabilities.**
 
 ## 📚 Documentation Structure
 
@@ -98,11 +98,12 @@
     - Extension testing
 
 ### AI & Developer Experience
-14. [**AI-Readiness & GitHub Copilot Integration**](./docs/14-ai-copilot-integration.md)
-    - Code structure for AI assistance
-    - Copilot-friendly patterns
-    - Documentation for AI tools
-    - Context optimization
+14. [**AI Integration with VSCode Extensibility**](./docs/14-ai-integration.md)
+    - Chat participants for API design
+    - Language Model API integration
+    - Language Model Tools for agent mode
+    - Prompt engineering with TSX
+    - AI-powered smart actions
 
 ### Deployment & Operations
 15. [**Build & Deployment**](./docs/15-build-deployment.md)
@@ -244,4 +245,5 @@ This guide incorporates best practices from:
 
 **Version**: 2025.1  
 **Last Updated**: 2025  
+**Maintained by**: API and Data Architecture Team
 
